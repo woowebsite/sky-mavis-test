@@ -1,6 +1,6 @@
 # sky-mavis-test
 
-Run
+Run application
 ```console
 yarn install
 yarn start
